@@ -1,5 +1,5 @@
 # gaih-python-duties
-<center> ![gaih_logo](gaih_logo.png)
+![gaih_logo](gaih_logo.png)
 
 This repo contains Global AI Hub - Introduction to Python Programming Course's homeworks and final project. 
 
